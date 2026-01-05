@@ -1,6 +1,6 @@
 # 🧮Calculadora de IMC
 
-Este é um projeto simples de calculadora de Índice de Massa Corporal (IMC), desenvolvido como parte da introdução ao JavaScript no curso de Desenvolvimento Full Stack da EBAC.
+Este é um projeto de calculadora de Índice de Massa Corporal (IMC), desenvolvido como foco de uso de condições para validações. 
 
 <p align="center">
   <img src="ico/calculadoraIMC.jpg" alt="Preview" width="350">
