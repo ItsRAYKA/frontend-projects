@@ -14,6 +14,8 @@ O jogo também:
 - exibe mensagens de feedback
 - permite reiniciar a partida ao final
 
+## 🖼️ Preview do Projeto
+
 ![Preview do Jogo](img/preview.png)
 
 <br>
