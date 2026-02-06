@@ -1,10 +1,10 @@
 # Frontend Projects 🚀
 
-Este repositório foi criado com o objetivo de organizar e apresentar projetos desenvolvidos de forma **autônoma**, focando no meu **nível atual de aprendizado** em desenvolvimento front-end.
+Este repositório foi criado com o objetivo de organizar e apresentar projetos desenvolvidos de forma **autônoma**, utilizando documentação e referências técnicas para **fortalecer os fundamentos** e ganhar segurança na aplicação prática. Focando no meu **nível atual de aprendizado** em desenvolvimento front-end.
 
 Os projetos aqui representam minha **evolução prática**, desde conceitos fundamentais até implementações um pouco mais estruturadas, sempre buscando escrever código mais limpo, organizado e compreensível.
 
-A proposta deste repositório é também reforçar conceitos já estudados, promovendo **revisão contínua** e aplicação prática para consolidar o aprendizado.
+A proposta deste repositório é também reforçar conceitos já estudados, promovendo **revisão contínua** e aplicação prática para fortalecer a base conceitual
 
 ## 🧠 Tecnologia
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
